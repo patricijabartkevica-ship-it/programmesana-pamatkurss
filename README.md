@@ -1,6 +1,6 @@
 # Programmēšana - pamatkurss
 
-Autors: **Patrīcija Bartkēviča**
+**Autors**: **Patrīcija Bartkēviča**
 
 ## Kā palaist
 
